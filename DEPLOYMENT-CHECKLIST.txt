@@ -1,0 +1,128 @@
+════════════════════════════════════════════════════
+   GAS STATION ALERTS - DEPLOYMENT CHECKLIST
+════════════════════════════════════════════════════
+
+PRE-DEPLOYMENT
+═══════════════
+☐ GitHub account created (github.com)
+☐ Render account created (render.com)
+☐ Files ready in: C:\Users\zacha\Documents\gas-station-alerts-backend
+
+STEP 1: PUSH TO GITHUB
+═══════════════════════
+☐ Downloaded GitHub Desktop
+☐ Signed in to GitHub Desktop
+☐ Created repository: gas-station-alerts-backend
+☐ Published to GitHub
+☐ Repository URL: _________________________________
+
+STEP 2: DEPLOY BACKEND
+══════════════════════
+☐ Logged into Render.com
+☐ Clicked "New +" → "Web Service"
+☐ Connected GitHub repository
+☐ Selected FREE plan
+☐ Clicked "Create Web Service"
+☐ Waited for deployment (3-5 min)
+☐ Backend is LIVE (green checkmark)
+☐ Backend URL: ___________________________________
+
+STEP 3: UPDATE FRONTEND
+═══════════════════════
+☐ Opened: gas-station-alerts-feed-live.html
+☐ Found line: 'YOUR_RENDER_BACKEND_URL_HERE'
+☐ Replaced with actual backend URL
+☐ Saved file
+☐ Renamed to: index.html (for deployment)
+
+STEP 4: DEPLOY FRONTEND
+═══════════════════════
+Choose one:
+
+Option A - Netlify Drop:
+☐ Went to: app.netlify.com/drop
+☐ Dragged index.html to page
+☐ Got URL: _______________________________________
+
+Option B - Render Static Site:
+☐ Created new GitHub repo for frontend
+☐ Pushed index.html to GitHub
+☐ Created Static Site on Render
+☐ Got URL: _______________________________________
+
+Option C - GitHub Pages:
+☐ Created repo: username.github.io
+☐ Uploaded index.html
+☐ Enabled Pages in settings
+☐ Got URL: _______________________________________
+
+STEP 5: VERIFY DEPLOYMENT
+═════════════════════════
+☐ Visited frontend URL
+☐ Page loads correctly
+☐ Shows "34 Active Alerts"
+☐ Backend status shows 🟢 (green)
+☐ Tested health endpoint: [backend-url]/api/health
+☐ No console errors in browser
+
+URLS TO SAVE
+═════════════
+Frontend:  ________________________________________
+Backend:   ________________________________________
+Health:    ________________________________________/api/health
+GitHub:    ________________________________________
+
+AFTER 24-48 HOURS
+═════════════════
+☐ Visited: google.com/alerts
+☐ Clicked RSS icon for each alert
+☐ Copied RSS feed URLs
+☐ Updated server.js RSS_FEEDS array
+☐ Pushed changes to GitHub
+☐ Render auto-deployed
+☐ Visited frontend - alerts showing!
+
+OPTIONAL: KEEP BACKEND AWAKE
+════════════════════════════
+☐ Created UptimeRobot account (free)
+☐ Added monitor for: [backend-url]/api/health
+☐ Set interval: 10 minutes
+☐ Backend stays awake 24/7
+
+TROUBLESHOOTING
+═══════════════
+Backend build failed?
+☐ Checked logs in Render dashboard
+☐ Verified package.json exists
+☐ Tested npm install locally
+
+Frontend not connecting?
+☐ Verified backend URL in HTML
+☐ Checked backend is "Live" in Render
+☐ Checked browser console for errors
+☐ Tested backend URL directly in browser
+
+RSS feeds not showing?
+☐ Waited 24-48 hours after creating alerts
+☐ Verified RSS URLs added to server.js
+☐ Tested /api/feeds endpoint directly
+☐ Checked Render logs for errors
+
+════════════════════════════════════════════════════
+                  COMPLETION
+════════════════════════════════════════════════════
+
+☐ Website is LIVE and accessible from anywhere!
+☐ Backend responding successfully
+☐ Bookmarked my URLs
+☐ Shared with friends/colleagues
+☐ Celebrated! 🎉
+
+════════════════════════════════════════════════════
+
+Notes:
+_____________________________________________________
+_____________________________________________________
+_____________________________________________________
+_____________________________________________________
+_____________________________________________________

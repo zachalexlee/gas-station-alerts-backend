@@ -1,0 +1,11 @@
+services:
+  # Backend API Server
+  - type: web
+    name: gas-station-alerts-backend
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    plan: free
+    envVars:
+      - key: NODE_ENV
+        value: production

@@ -1,0 +1,179 @@
+{
+  "categories": {
+    "gas-stations": {
+      "name": "Gas Stations & C-Stores",
+      "feeds": [
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/2356736684601183531",
+          "name": "\"c-store\" \"fuel\" \"new location\"",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/10272491932958314872",
+          "name": "\"c-store\" \"fuel\" construction (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/13313358979928774559",
+          "name": "\"convenience mart\" \"fuel\" opening (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/8341794456788693301",
+          "name": "\"convenience mart\" \"gas pumps\" \"new\"",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/16884310037910078188",
+          "name": "\"convenience store\" \"fuel pumps\" \"coming soon\"",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/7948661866159659660",
+          "name": "\"convenience store\" \"fuel pumps\" permit (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/18098273169971572213",
+          "name": "\"filling station\" \"coming soon\"",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/7464813959798405035",
+          "name": "\"filling station\" opening (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/17182240907846120717",
+          "name": "\"fuel center\" construction (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/1226120987289009438",
+          "name": "\"fuel mart\" new (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/4345902348516778214",
+          "name": "\"fuel station\" \"permit approved\"",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/3328131774048131868",
+          "name": "\"fuel station\" permit (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/2641101500755475746",
+          "name": "\"fuel stop\" new (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/2665165367342573063",
+          "name": "\"gas bar\" \"opening\"",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/1856006892992916883",
+          "name": "\"gas bar\" construction (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/11760473391334443585",
+          "name": "\"gas station construction\" (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/16754394224087368820",
+          "name": "\"gas station\" \"breaking ground\" (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/805090456831878584",
+          "name": "\"gas station\" \"coming soon\" (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/2356736684601182860",
+          "name": "\"gas station\" \"grand opening\" (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/11561908779301281246",
+          "name": "\"gas station\" \"land use\" (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/2862118317250464279",
+          "name": "\"gas station\" \"now open\" (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/7125003852991128726",
+          "name": "\"gas station\" \"ribbon cutting\" (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/8854767764924737815",
+          "name": "\"gas station\" \"site plan\" (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/2214701372282077850",
+          "name": "\"gas station\" approved (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/15967401914306998170",
+          "name": "\"gas station\" proposal (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/18098273169971569420",
+          "name": "\"gas station\" zoning (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/6030688961984603201",
+          "name": "\"independent gas station\" new (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/13923193800938194260",
+          "name": "\"new gas station\" \"opening soon\"",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/10812523901845474331",
+          "name": "\"new gas station\" opening (excluding major chains)",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/17386860109803368591",
+          "name": "\"travel center\" \"new construction\"",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/14009841047842724740",
+          "name": "\"service station\" \"new development\"",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/3546512814188894202",
+          "name": "\"truck stop\" \"new construction\"",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/805090456831878167",
+          "name": "\"petrol station\" \"opening\"",
+          "enabled": true
+        },
+        {
+          "url": "https://www.google.com/alerts/feeds/09182428279069180430/1226120987289009546",
+          "name": "\"refueling station\" \"new\"",
+          "enabled": true
+        }
+      ]
+    }
+  }
+}
