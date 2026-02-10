@@ -14,19 +14,14 @@ const parser = new Parser({
 app.use(cors());
 app.use(express.json());
 
-// Your Google Alerts RSS feed URLs - 34 Gas Station Alerts
+// Your Google Alerts RSS feed URLs - Gas Station Alerts Only (Cannabis alerts removed)
 const RSS_FEEDS = [
     'https://www.google.com/alerts/feeds/09182428279069180430/2356736684601183531',
     'https://www.google.com/alerts/feeds/09182428279069180430/10272491932958314872',
-    'https://www.google.com/alerts/feeds/09182428279069180430/13313358979928774559',
-    'https://www.google.com/alerts/feeds/09182428279069180430/8341794456788693301',
-    'https://www.google.com/alerts/feeds/09182428279069180430/16884310037910078188',
-    'https://www.google.com/alerts/feeds/09182428279069180430/7948661866159659660',
     'https://www.google.com/alerts/feeds/09182428279069180430/18098273169971572213',
     'https://www.google.com/alerts/feeds/09182428279069180430/7464813959798405035',
     'https://www.google.com/alerts/feeds/09182428279069180430/17182240907846120717',
     'https://www.google.com/alerts/feeds/09182428279069180430/1226120987289009438',
-    'https://www.google.com/alerts/feeds/09182428279069180430/4345902348516778214',
     'https://www.google.com/alerts/feeds/09182428279069180430/3328131774048131868',
     'https://www.google.com/alerts/feeds/09182428279069180430/2641101500755475746',
     'https://www.google.com/alerts/feeds/09182428279069180430/2665165367342573063',
